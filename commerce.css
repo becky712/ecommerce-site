@@ -1,0 +1,13 @@
+table {
+    border: solid grey 1px;
+    width: 100%;
+}
+
+table tr th {
+    border: solid grey 1px;
+   text-transform: uppercase;
+}
+table tr td {
+    border: solid grey 1px;
+    text-transform: capitalize;
+}
